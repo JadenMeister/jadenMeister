@@ -25,8 +25,8 @@
 ##  Operating System
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,ubuntu)](https://skillicons.dev)
 
-## 📄 Resume
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaden-choi-16a541227/) <!-- 링크는 본인 링크로 바꿔주세요! -->
+## linkedIn
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaden-choi-16a541227/) 
 
 
 <!--

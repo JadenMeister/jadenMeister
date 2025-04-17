@@ -1,9 +1,9 @@
 ```
 I'm a developer with a background in **Cybersecurity**,
-currently focusing on becoming a **Full-Stack Engineer**
-after starting my journey in **Front-End Development**.
+Currently focusing on becoming a **Full-Stack Engineer**
+After starting my journey in **Front-End Development**.
 
-I'm open to exciting work opportunities in **North America** also **Korea** too.
+I'm open to working in North America and also  Korea.
 
 ```
 

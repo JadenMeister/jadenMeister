@@ -2,10 +2,11 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,sequelize,vite)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=figma,docker,webstorm,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,docker,webstorm,vscode,notion,postman,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=window,linux,kali,ubuntu)](https://skillicons.dev)
 
 
 <!--

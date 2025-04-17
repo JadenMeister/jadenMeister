@@ -6,6 +6,8 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=figma,docker,webstorm,vscode,notion,postman,vim)](https://skillicons.dev)
+
+
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,ubuntu)](https://skillicons.dev)
 
 

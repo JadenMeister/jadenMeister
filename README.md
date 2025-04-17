@@ -5,6 +5,9 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs)](https://skillicons.dev)
 
 
+[![My Skills](https://skillicons.dev/icons?i=figma, docker, webstorm, ncp, vscode, )](https://skillicons.dev)
+
+
 <!--
 **JadenMeister/jadenMeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

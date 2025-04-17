@@ -2,10 +2,10 @@
 
 
 ##  Main Stack
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,js,nodejs,express,mysql)](https://skillicons.dev)
 
-##  Sub Stack
-[![My Skills](https://skillicons.dev/icons?i=nextjs,haskell,sequelize)](https://skillicons.dev)
+## Some experience with
+[![My Skills](https://skillicons.dev/icons?i=haskell,sequelize)](https://skillicons.dev)
 
 ##  Bundler & Compiler
 [![My Skills](https://skillicons.dev/icons?i=vite,babel)](https://skillicons.dev)

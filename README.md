@@ -5,7 +5,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=figma,docker,webstorm,ncp,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,docker,webstorm,slack,vscode)](https://skillicons.dev)
 
 
 <!--

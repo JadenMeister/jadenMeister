@@ -22,7 +22,7 @@
 ##  Co-op Tools
 [![My Skills](https://skillicons.dev/icons?i=notion,git,github)](https://skillicons.dev)
 
-##  Operating System
+##  OS
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,ubuntu)](https://skillicons.dev)
 
 ## linkedIn

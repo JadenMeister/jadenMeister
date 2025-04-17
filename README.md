@@ -1,16 +1,32 @@
 ## Hi there 👋
 
 
+##  Main Stack
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,nodejs,express)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,express,sequelize,vite,haskell)](https://skillicons.dev)
+##  Sub Stack
+[![My Skills](https://skillicons.dev/icons?i=nextjs,haskell,sequelize)](https://skillicons.dev)
 
+##  Bundler & Compiler
+[![My Skills](https://skillicons.dev/icons?i=vite,babel)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=figma,docker,webstorm,vscode,notion,postman,vim,nginx,git,vercel)](https://skillicons.dev)
+##  Cloud Services
+[![My Skills](https://skillicons.dev/icons?i=aws,vercel)](https://skillicons.dev)
 
+##  Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,figma,postman,vim)](https://skillicons.dev)
 
+##  IDE
+[![My Skills](https://skillicons.dev/icons?i=webstorm,vscode)](https://skillicons.dev)
+
+##  Co-op Tools
+[![My Skills](https://skillicons.dev/icons?i=notion,git,github)](https://skillicons.dev)
+
+##  Operating System
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,ubuntu)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+## 📄 Resume
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaden-choi-16a541227/) <!-- 링크는 본인 링크로 바꿔주세요! -->
 
 
 <!--

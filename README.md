@@ -1,5 +1,6 @@
-## Hi there 👋
 
+I'm a developer with a background in **Cybersecurity**, currently focusing on becoming a **Full-Stack Engineer** after starting my journey in **Front-End Development**.  
+I'm open to exciting work opportunities in **North America**.
 
 ##  Main Stack
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,js,nodejs,express,mysql)](https://skillicons.dev)

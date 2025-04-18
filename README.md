@@ -1,11 +1,11 @@
-```
+
 I'm a developer with a background in **Cybersecurity**,
 Currently focusing on becoming a **Full-Stack Engineer**
 After starting my journey in **Front-End Development**.
 
 I'm open to working in North America and also  Korea.
 
-```
+
 
 ##  Main Stack
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,js,nodejs,express,mysql)]()

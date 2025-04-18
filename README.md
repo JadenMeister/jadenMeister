@@ -9,12 +9,13 @@ I'm open to working in North America and also  Korea.
 
 ##  Main Stack
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,js,nodejs,express,mysql)]()
-
+<!--
 ## Some experience with
-[![My Skills](https://skillicons.dev/icons?i=haskell,sequelize)]()
+[![My Skills](https://skillicons.dev/icons?i=haskell,sequelize)]() -->
 
+<!--
 ##  Bundler & Compiler
-[![My Skills](https://skillicons.dev/icons?i=vite,babel)]()
+[![My Skills](https://skillicons.dev/icons?i=vite,babel)]() -->
 
 ##  Cloud Services
 [![My Skills](https://skillicons.dev/icons?i=aws,vercel)]()
@@ -22,8 +23,9 @@ I'm open to working in North America and also  Korea.
 ##  Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,figma,postman,vim)]()
 
+<!--
 ##  IDE
-[![My Skills](https://skillicons.dev/icons?i=webstorm,vscode)]()
+[![My Skills](https://skillicons.dev/icons?i=webstorm,vscode)]() -->
 
 ##  Co-op Tools
 [![My Skills](https://skillicons.dev/icons?i=notion,git,github)]()
@@ -33,6 +35,7 @@ I'm open to working in North America and also  Korea.
 
 ## linkedIn
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaden-choi-16a541227/) 
+
 
 
 <!--

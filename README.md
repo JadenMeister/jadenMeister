@@ -8,7 +8,7 @@ I'm open to working in North America and also  Korea.
 ```
 
 ##  Main Stack
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,js,nodejs,express,mysql)]
+[My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,js,nodejs,express,mysql)
 
 ## Some experience with
 [![My Skills](https://skillicons.dev/icons?i=haskell,sequelize)]

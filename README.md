@@ -8,28 +8,28 @@ I'm open to working in North America and also  Korea.
 ```
 
 ##  Main Stack
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,js,nodejs,express,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,js,nodejs,express,mysql)]
 
 ## Some experience with
-[![My Skills](https://skillicons.dev/icons?i=haskell,sequelize)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=haskell,sequelize)]
 
 ##  Bundler & Compiler
-[![My Skills](https://skillicons.dev/icons?i=vite,babel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,babel)]
 
 ##  Cloud Services
-[![My Skills](https://skillicons.dev/icons?i=aws,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,vercel)]
 
 ##  Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,figma,postman,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,figma,postman,vim)]
 
 ##  IDE
-[![My Skills](https://skillicons.dev/icons?i=webstorm,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=webstorm,vscode)]
 
 ##  Co-op Tools
-[![My Skills](https://skillicons.dev/icons?i=notion,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion,git,github)]
 
 ##  OS
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,ubuntu)]
 
 ## linkedIn
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jaden-choi-16a541227/) 

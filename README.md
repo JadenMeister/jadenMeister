@@ -1,8 +1,7 @@
 
-<span style="font-size:24px; font-weight:bold;">I'm a developer with a background in Cybersecurity</span><br>
-<span style="font-size:24px; font-weight:bold;">Currently focusing on becoming a Full-Stack Engineer</span><br>
-<span style="font-size:24px; font-weight:bold;">After starting my journey in Front-End Development</span>
-
+**I'm a developer with a background in Cybersecurity**  
+**Currently focusing on becoming a Full-Stack Engineer**  
+**After starting my journey in Front-End Development**
 
 
 ##  Main Stack

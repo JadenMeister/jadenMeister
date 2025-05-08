@@ -3,8 +3,11 @@
 **Currently focusing on becoming a Full-Stack Engineer**  
 **After starting my journey in Front-End Development**
 
+## Resume
+📝[Resume| CV](https://drive.google.com/file/d/13ZLFO673jGKbkYLQ-rx1t-_6IKN-mK_s/view?usp=sharing)
 
-##  Main Stack
+
+# Main Stack
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,js,nodejs,express,mysql)]()
 <!--
 ## Some experience with

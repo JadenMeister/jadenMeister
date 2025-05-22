@@ -28,7 +28,7 @@
 [![My Skills](https://skillicons.dev/icons?i=webstorm,vscode)]() -->
 
 ##  Co-op Tools
-[![My Skills](https://skillicons.dev/icons?i=notion,git,github)]()
+[![My Skills](https://skillicons.dev/icons?i=notion,git,github,npm)]()
 
 ##  OS
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,ubuntu)]()

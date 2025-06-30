@@ -1,7 +1,6 @@
 
 **I'm a developer with a background in Cybersecurity**  
 **Currently focusing on becoming a Full-Stack Engineer**  
-**After starting my journey in Front-End Development**
 
 ## Resume
 📝[Resume| CV](https://drive.google.com/file/d/13ZLFO673jGKbkYLQ-rx1t-_6IKN-mK_s/view?usp=sharing)
@@ -9,13 +8,6 @@
 
 # Main Stack
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css,js,nodejs,express,mysql)]()
-<!--
-## Some experience with
-[![My Skills](https://skillicons.dev/icons?i=haskell,sequelize)]() -->
-
-<!--
-##  Bundler & Compiler
-[![My Skills](https://skillicons.dev/icons?i=vite,babel)]() -->
 
 ##  Cloud Services
 [![My Skills](https://skillicons.dev/icons?i=aws,vercel)]()
@@ -23,9 +15,9 @@
 ##  Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,figma,postman,vim)]()
 
-<!--
+
 ##  IDE
-[![My Skills](https://skillicons.dev/icons?i=webstorm,vscode)]() -->
+[![My Skills](https://skillicons.dev/icons?i=webstorm,jetbrain)]() 
 
 ##  Co-op Tools
 [![My Skills](https://skillicons.dev/icons?i=notion,git,github,npm)]()

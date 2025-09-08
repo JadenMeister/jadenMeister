@@ -1,6 +1,6 @@
 
 **I'm a developer with a background in Cybersecurity**  
-**Currently focusing on becoming a Full-Stack Engineer**  
+
 
 ## Resume
 📝[Resume| CV](https://drive.google.com/file/d/13ZLFO673jGKbkYLQ-rx1t-_6IKN-mK_s/view?usp=sharing)

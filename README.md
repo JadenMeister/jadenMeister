@@ -1,5 +1,5 @@
 
-**I'm a developer with a background in Cybersecurity**  
+**(Would-be) a (full-stack) Developer**  
 
 
 ## Resume

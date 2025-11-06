@@ -1,5 +1,5 @@
 
-**(Would-be) a (full-stack) Developer**  
+**(Would-be) a Developer**  
 
 
 ## Resume

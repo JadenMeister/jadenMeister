@@ -6,6 +6,13 @@
 📝[Resume| CV](https://drive.google.com/file/d/13ZLFO673jGKbkYLQ-rx1t-_6IKN-mK_s/view?usp=sharing)
 
 
+## work for 
+ML(little), 
+Web Developer in Daejeon, South Korea
+
+1+ years experiecne
+
+
 
 
 

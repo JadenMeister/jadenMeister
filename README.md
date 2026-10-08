@@ -8,7 +8,8 @@
 
 ## work for 
 ML(little), 
-Web Developer in Daejeon, South Korea
+Web Developer
+interested in AX, Build Agent Orchestration pipeline
 
 1+ years experiecne
 

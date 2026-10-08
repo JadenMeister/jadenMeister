@@ -7,9 +7,9 @@ https://github.com/JadenMeister/jadenMeister/blob/master/README.md
 
 
 ## work for 
-ML(little), 
+ML(a bit), 
 Web Developer  <br/>
-interested in AX. <br/>
+Interested in AX. <br/>
 Build Agent Orchestration pipeline
 
 1+ years experiecne

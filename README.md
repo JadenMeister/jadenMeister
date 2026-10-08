@@ -1,15 +1,16 @@
 
 **(Would-be) a Developer**  
 
-
+https://github.com/JadenMeister/jadenMeister/blob/master/README.md
 ## Resume
 📝[Resume| CV](https://drive.google.com/file/d/13ZLFO673jGKbkYLQ-rx1t-_6IKN-mK_s/view?usp=sharing)
 
 
 ## work for 
 ML(little), 
-Web Developer
-interested in AX, Build Agent Orchestration pipeline
+Web Developer  <br/>
+interested in AX. <br/>
+Build Agent Orchestration pipeline
 
 1+ years experiecne
 

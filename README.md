@@ -7,7 +7,7 @@ https://github.com/JadenMeister/jadenMeister/blob/master/README.md
 
 
 ## work for 
-ML(a bit), 
+ML(a bit)a bit 
 Web Developer  <br/>
 Interested in AX. <br/>
 Build Agent Orchestration pipeline

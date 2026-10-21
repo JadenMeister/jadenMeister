@@ -1,7 +1,6 @@
 
 **(Would-be) a Developer**  
 
-https://github.com/JadenMeister/jadenMeister/blob/master/README.md
 ## Resume
 📝[Resume| CV](https://drive.google.com/file/d/13ZLFO673jGKbkYLQ-rx1t-_6IKN-mK_s/view?usp=sharing)
 

@@ -2,7 +2,7 @@
 **(Would-be) a Developer,Builder**  
 
 ## Resume
-📝[Resume| CV](https://drive.google.com/file/d/13ZLFO673jGKbkYLQ-rx1t-_6IKN-mK_s/view?usp=sharing)
+📝[Resume| CV]([https://drive.google.com/file/d/13ZLFO673jGKbkYLQ-rx1t-_6IKN-mK_s/view?usp=sharing](https://drive.google.com/file/d/13ZLFO673jGKbkYLQ-rx1t-_6IKN-mK_s/view?usp=sharing))
 
 
 ## work for 

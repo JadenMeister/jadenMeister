@@ -6,7 +6,7 @@
 
 
 ## work for 
-ML(a bit)a bit 
+ML(a bit)
 Web Developer  <br/>
 Interested in AX, Build Agent Orchestration pipeline
 

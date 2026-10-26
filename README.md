@@ -8,9 +8,14 @@
 ## work for 
 ML(a bit)
 Web Developer  <br/>
-Interested in AX, Build Agent Orchestration pipeline
 
-1+ years experiecne
+## Interested in 
+AX, Build Agent Orchestration pipeline <br/>
+Information, Cyber, AI Security
+
+## Experienced
+1+ years experiecne <br/>
+B.S. in Cybersecurity & B.A. in Anglo-American English and Culture
 
 
 

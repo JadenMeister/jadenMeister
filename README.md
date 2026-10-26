@@ -5,9 +5,10 @@
 📝[Resume| CV](https://drive.google.com/file/d/13ZLFO673jGKbkYLQ-rx1t-_6IKN-mK_s/view?usp=sharing)
 
 
-## work for 
+## Work for 
 ML(a bit)
 Web Developer  <br/>
+AI-Native
 
 ## Interested in 
 AX, Build Agent Orchestration pipeline <br/>

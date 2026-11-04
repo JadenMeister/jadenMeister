@@ -11,7 +11,7 @@ Web Developer  <br/>
 AI-Native
 
 ## Interested in 
-AX, Build Agent Orchestration pipeline <br/>
+Build Agent Orchestration Pipeline <br/>
 Information, Cyber, AI Security <br>
 Take a photo of landscape, building, object 📸 <br>
 If you have some interest? <br> You can enjoy at -> https://gallery-wine-psi.vercel.app/

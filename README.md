@@ -6,9 +6,8 @@
 
 
 ## Work for 
-ML(a bit)
 Web Developer  <br/>
-AI-Native
+Build AI-Native environment
 
 ## Interested in 
 Build Agent Orchestration Pipeline <br/>

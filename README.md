@@ -13,8 +13,8 @@ AI-Native
 ## Interested in 
 AX, Build Agent Orchestration pipeline <br/>
 Information, Cyber, AI Security <br>
-Take a photo of landscape, building, object 📸
-If have some interest? <br> You can enjoy at -> https://gallery-wine-psi.vercel.app/
+Take a photo of landscape, building, object 📸 <br>
+If you have some interest? <br> You can enjoy at -> https://gallery-wine-psi.vercel.app/
 
 
 ## Experienced

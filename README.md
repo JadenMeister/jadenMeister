@@ -7,7 +7,7 @@
 
 ## Work for 
 Web Developer  <br/>
-Build AI-Native environment
+Build something (tools.. web.. etc..)
 
 ## Interested in 
 Build Agent Orchestration Pipeline <br/>

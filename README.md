@@ -12,7 +12,7 @@ Build something (tools.. web.. etc..)
 ## Interested in 
 Build Agent Orchestration Pipeline <br/>
 Information, Cyber, AI Security <br>
-Take a photo of landscape, building, object 📸 <br>
+Taking photo of landscape, building, object 📸 <br>
 If you have some interest? <br> You can enjoy at -> https://gallery-wine-psi.vercel.app/
 
 
